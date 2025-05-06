@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import Input from '@/assets/input/Input.vue';
 import Card from '@/components/Card.vue';
 import Table from '@/components/Table.vue';
 </script>

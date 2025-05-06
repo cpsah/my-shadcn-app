@@ -8,7 +8,6 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
-import { Input } from 'src/assets/input'
 import { Label } from '@/components/ui/label'
 import {
   Select,
